@@ -1,0 +1,3307 @@
+[
+ {
+  "sym": "FIGR_HELOC",
+  "name": "Figure Heloc",
+  "cat": "credit",
+  "mcap": 26537924672,
+  "tvl": null,
+  "risk": "verified",
+  "ex": []
+ },
+ {
+  "sym": "LINK",
+  "name": "Chainlink",
+  "cat": "infra",
+  "mcap": 8213087331,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance",
+   "Coinbase",
+   "OKX",
+   "Bybit",
+   "Kraken",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "XLM",
+  "name": "Stellar",
+  "cat": "infra",
+  "mcap": 5769872069,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance",
+   "Coinbase",
+   "OKX",
+   "Bybit",
+   "Kraken",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "XAUT",
+  "name": "Tether Gold",
+  "cat": "commodity",
+  "mcap": 3246898748,
+  "tvl": null,
+  "risk": "verified",
+  "ex": [
+   "Binance",
+   "OKX",
+   "Bybit",
+   "Kraken",
+   "Gate",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "QNT",
+  "name": "Quant",
+  "cat": "infra",
+  "mcap": 2661426972,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance",
+   "Coinbase",
+   "Bybit",
+   "Kraken",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "USDY",
+  "name": "Ondo US Dollar Yield",
+  "cat": "other",
+  "mcap": 2376549065,
+  "tvl": null,
+  "risk": "verified",
+  "ex": [
+   "Bybit",
+   "Gate"
+  ]
+ },
+ {
+  "sym": "USYC",
+  "name": "Circle USYC",
+  "cat": "treasury",
+  "mcap": 2359193903,
+  "tvl": null,
+  "risk": "verified",
+  "ex": []
+ },
+ {
+  "sym": "BUIDL",
+  "name": "BlackRock USD Institutional Digital Liquidity Fund",
+  "cat": "treasury",
+  "mcap": 2114748140,
+  "tvl": null,
+  "risk": "verified",
+  "ex": []
+ },
+ {
+  "sym": "ONDO",
+  "name": "Ondo",
+  "cat": "other",
+  "mcap": 1871983770,
+  "tvl": null,
+  "risk": "verified",
+  "ex": [
+   "Binance",
+   "Coinbase",
+   "OKX",
+   "Bybit",
+   "Kraken",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "EURSAFO",
+  "name": "Spiko Amundi Overnight Swap Fund (EUR)",
+  "cat": "fund",
+  "mcap": 1841678937,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "PAXG",
+  "name": "PAX Gold",
+  "cat": "commodity",
+  "mcap": 1793393352,
+  "tvl": null,
+  "risk": "verified",
+  "ex": [
+   "Binance",
+   "Coinbase",
+   "OKX",
+   "Kraken",
+   "Gate",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "BCAP",
+  "name": "Blockchain Capital",
+  "cat": "other",
+  "mcap": 963514617,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "ALGO",
+  "name": "Algorand",
+  "cat": "infra",
+  "mcap": 851883320,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance",
+   "Coinbase",
+   "OKX",
+   "Bybit",
+   "Kraken",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "INJ",
+  "name": "Injective",
+  "cat": "infra",
+  "mcap": 735721157,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance",
+   "Coinbase",
+   "OKX",
+   "Bybit",
+   "Kraken",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "USTB",
+  "name": "Invesco Short Duration US Government Securities Fund",
+  "cat": "treasury",
+  "mcap": 673775028,
+  "tvl": null,
+  "risk": "verified",
+  "ex": []
+ },
+ {
+  "sym": "XDC",
+  "name": "XDC Network",
+  "cat": "infra",
+  "mcap": 647598953,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Bybit",
+   "Kraken",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "-",
+  "name": "Invesco USTB",
+  "cat": "treasury",
+  "mcap": 0,
+  "tvl": 629113513,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "JAAA",
+  "name": "Janus Henderson Anemoy AAA CLO Fund",
+  "cat": "credit",
+  "mcap": 568375059,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "EUTBL",
+  "name": "Spiko EU T-Bills Money Market Fund",
+  "cat": "treasury",
+  "mcap": 500800382,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "YLDS",
+  "name": "YLDS",
+  "cat": "other",
+  "mcap": 486627990,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "ENA",
+  "name": "Ethena USDtb",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 474385154,
+  "risk": "listed",
+  "ex": [
+   "Binance",
+   "Coinbase",
+   "OKX",
+   "Bybit",
+   "Kraken",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "HASH",
+  "name": "Provenance Blockchain",
+  "cat": "infra",
+  "mcap": 371097122,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "HUMA",
+  "name": "Huma",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 369058615,
+  "risk": "listed",
+  "ex": [
+   "Binance",
+   "OKX",
+   "Bybit",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "KAU",
+  "name": "Kinesis Gold",
+  "cat": "commodity",
+  "mcap": 354507547,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "OUSG",
+  "name": "Ondo Short-Term U.S. Government Bond Fund",
+  "cat": "treasury",
+  "mcap": 320544044,
+  "tvl": null,
+  "risk": "verified",
+  "ex": []
+ },
+ {
+  "sym": "-",
+  "name": "OnRe",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 304848472,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "CHIP",
+  "name": "USD AI",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 271681134,
+  "risk": "listed",
+  "ex": [
+   "Binance",
+   "Coinbase",
+   "OKX",
+   "Bybit",
+   "Kraken",
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "-",
+  "name": "OpenTrade",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 246248860,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "SAFO",
+  "name": "Spiko Amundi Overnight Swap Fund",
+  "cat": "fund",
+  "mcap": 237245506,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "CARDS",
+  "name": "Collector Crypt",
+  "cat": "other",
+  "mcap": 234317316,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "OKX",
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "-",
+  "name": "Plume Vaults",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 233946568,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "PC0000031",
+  "name": "Tradable NA Rent Financing Platform SSTN",
+  "cat": "credit",
+  "mcap": 227500000,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "ZBCN",
+  "name": "Zebec Network",
+  "cat": "other",
+  "mcap": 206546651,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "OKX",
+   "Kraken",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "-",
+  "name": "R25",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 196959323,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "KAG",
+  "name": "Kinesis Silver",
+  "cat": "commodity",
+  "mcap": 192586962,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "USAT",
+  "name": "USAT",
+  "cat": "other",
+  "mcap": 181994281,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "OKX",
+   "Bybit",
+   "Kraken",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "SPCXB",
+  "name": "SpaceX (bStocks Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 177994084,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "SYRUP",
+  "name": "Maple Finance",
+  "cat": "credit",
+  "mcap": 177734073,
+  "tvl": null,
+  "risk": "verified",
+  "ex": [
+   "Binance",
+   "Coinbase",
+   "Kraken",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "USTBL",
+  "name": "Spiko US T-Bills Money Market Fund",
+  "cat": "treasury",
+  "mcap": 170003011,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "PC0000033",
+  "name": "Tradable APAC Diversified Finance Provider SSTN",
+  "cat": "credit",
+  "mcap": 162500000,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "TRAC",
+  "name": "OriginTrail",
+  "cat": "infra",
+  "mcap": 160357747,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Coinbase",
+   "Kraken",
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "REG",
+  "name": "RealT Tokens",
+  "cat": "realestate",
+  "mcap": 0,
+  "tvl": 155035058,
+  "risk": "listed",
+  "ex": [
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "CRCLB",
+  "name": "Circle Internet Group (bStocks Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 154545781,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "STRCX",
+  "name": "Strategy PP Variable xStock",
+  "cat": "stock",
+  "mcap": 153660392,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "PC0000097",
+  "name": "Tradable LatAm Fintech SSTN",
+  "cat": "credit",
+  "mcap": 134000000,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "-",
+  "name": "Theo Network thUSD",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 132185183,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "ONYC",
+  "name": "OnRe Tokenized Reinsurance",
+  "cat": "other",
+  "mcap": 122555552,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "NOPAL",
+  "name": "Nest BlackOpal LiquidStone II Vault",
+  "cat": "other",
+  "mcap": 120175991,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "MSTRX",
+  "name": "MicroStrategy xStock",
+  "cat": "stock",
+  "mcap": 119845703,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate"
+  ]
+ },
+ {
+  "sym": "THBILL",
+  "name": "Theo Short Duration US Treasury Fund",
+  "cat": "treasury",
+  "mcap": 117332624,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "PC0000023",
+  "name": "Tradable Singapore Fintech SSL",
+  "cat": "credit",
+  "mcap": 114500000,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "ALFW",
+  "name": "Alpha Bulgaria Warrants",
+  "cat": "other",
+  "mcap": 114330001,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "PC0000085",
+  "name": "Tradable LatAm Middle-Market Lender SSTL",
+  "cat": "credit",
+  "mcap": 111874199,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "XAUT0",
+  "name": "Tether Gold Tokens",
+  "cat": "commodity",
+  "mcap": 110114495,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "CRCLX",
+  "name": "Circle xStock",
+  "cat": "stock",
+  "mcap": 108967368,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Bybit",
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "-",
+  "name": "Valos",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 105986510,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "PC0000015",
+  "name": "Tradable NA Third Party Online Merchant SSTN",
+  "cat": "credit",
+  "mcap": 105971760,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "GOOGLB",
+  "name": "Alphabet (bStocks Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 104635190,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "STAC",
+  "name": "Securitize Tokenized AAA CLO Fund",
+  "cat": "credit",
+  "mcap": 104511578,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "-",
+  "name": "Anemoy Capital",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 102666920,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "-",
+  "name": "Lofty",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 101109600,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "PLUME",
+  "name": "Plume",
+  "cat": "other",
+  "mcap": 100686184,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance",
+   "Coinbase",
+   "Bybit",
+   "Kraken",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "FRAX",
+  "name": "Frax USD",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 100361738,
+  "risk": "listed",
+  "ex": [
+   "Binance",
+   "Bybit",
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "JTRSY",
+  "name": "Janus Henderson Anemoy Treasury Fund",
+  "cat": "treasury",
+  "mcap": 97104953,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "-",
+  "name": "Ember",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 96998019,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "ACRED",
+  "name": "Apollo Diversified Credit Securitize Fund",
+  "cat": "credit",
+  "mcap": 95465888,
+  "tvl": null,
+  "risk": "verified",
+  "ex": []
+ },
+ {
+  "sym": "RSR",
+  "name": "Reserve Rights",
+  "cat": "other",
+  "mcap": 92949184,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance",
+   "Coinbase",
+   "OKX",
+   "Kraken",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "VEREM",
+  "name": "Verified Emeralds",
+  "cat": "commodity",
+  "mcap": 90664916,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "CRCLON",
+  "name": "Circle Internet Group (Ondo Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 88912379,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "SNDKB",
+  "name": "SanDisk (bStocks Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 84943901,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "BSPX",
+  "name": "Bending Spoons xStock",
+  "cat": "stock",
+  "mcap": 82555345,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "GGBR",
+  "name": "Goldfish Gold",
+  "cat": "commodity",
+  "mcap": 81544942,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "PC0000019",
+  "name": "Tradable North America PoS Lender SSTN",
+  "cat": "credit",
+  "mcap": 80000000,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "USDON",
+  "name": "Ondo U.S. Dollar Token",
+  "cat": "other",
+  "mcap": 78704241,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "PGOLD",
+  "name": "Pleasing Gold",
+  "cat": "commodity",
+  "mcap": 78584882,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "PC0000101",
+  "name": "Tradable NA Post-Settlement Legal Financing Receivables",
+  "cat": "credit",
+  "mcap": 76722081,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "RED",
+  "name": "RedStone",
+  "cat": "other",
+  "mcap": 75693757,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance",
+   "Coinbase",
+   "Bybit",
+   "Kraken",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "MTBILL",
+  "name": "Midas mTBILL",
+  "cat": "treasury",
+  "mcap": 74852201,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "TSLAX",
+  "name": "Tesla xStock",
+  "cat": "stock",
+  "mcap": 73299905,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Bybit",
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "SPCXX",
+  "name": "SpaceX xStock",
+  "cat": "stock",
+  "mcap": 72792656,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Bybit",
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "PC0000049",
+  "name": "Tradable Eu/LatAm PoS Financing SSTL",
+  "cat": "credit",
+  "mcap": 71300000,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "SPYX",
+  "name": "SP500 xStock",
+  "cat": "stock",
+  "mcap": 70362417,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "XAUM",
+  "name": "Matrixdock Gold",
+  "cat": "commodity",
+  "mcap": 69779079,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "SKY",
+  "name": "Sky RWA",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 65189290,
+  "risk": "listed",
+  "ex": [
+   "Binance",
+   "Coinbase",
+   "OKX",
+   "Bybit",
+   "Kraken",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "MUB",
+  "name": "Micron Technology (bStocks Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 62230958,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "PMUSD",
+  "name": "Precious Metals USD",
+  "cat": "other",
+  "mcap": 60659816,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "IVVON",
+  "name": "iShares Core S&P 500 ETF (Ondo Tokenized ETF)",
+  "cat": "fund",
+  "mcap": 60498412,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "PC0000027",
+  "name": "Tradable LatAm BNPL SSTN",
+  "cat": "credit",
+  "mcap": 60300000,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "VELO",
+  "name": "Velo",
+  "cat": "other",
+  "mcap": 59791284,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Coinbase",
+   "OKX",
+   "Bybit",
+   "Kraken",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "PC0000081",
+  "name": "Tradable NA Legal Receivables SSL",
+  "cat": "credit",
+  "mcap": 59103448,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "PC0016245",
+  "name": "NA Capital-as-a-Service SSTN",
+  "cat": "other",
+  "mcap": 58600000,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "DUSK",
+  "name": "DUSK",
+  "cat": "other",
+  "mcap": 57558338,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance",
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "GBPSAFO",
+  "name": "Spiko Amundi Overnight Swap Fund (GBP)",
+  "cat": "fund",
+  "mcap": 57393793,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "RE",
+  "name": "RE",
+  "cat": "other",
+  "mcap": 56946282,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance",
+   "Coinbase",
+   "OKX",
+   "Kraken",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "STUSDT",
+  "name": "stUSDT",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 56274519,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "STUSDT",
+  "name": "stUSDT Staked USDT",
+  "cat": "other",
+  "mcap": 56177823,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "VBILL",
+  "name": "VanEck Treasury Fund",
+  "cat": "treasury",
+  "mcap": 51349429,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "ACRDX",
+  "name": "Anemoy Tokenized Apollo Diversified Credit Fund",
+  "cat": "credit",
+  "mcap": 51061078,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "GOOGLX",
+  "name": "Alphabet xStock",
+  "cat": "stock",
+  "mcap": 50438718,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Bybit",
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "BRSRV",
+  "name": "BlackRock Daily Reinvestment Stablecoin Reserve Vehicle",
+  "cat": "treasury",
+  "mcap": 50433467,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "CTC",
+  "name": "Creditcoin",
+  "cat": "credit",
+  "mcap": 50091335,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "OKX",
+   "Bybit",
+   "Kraken",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "STRCON",
+  "name": "Strategy Stretch Preferred (Ondo Tokenized)",
+  "cat": "other",
+  "mcap": 49847168,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "MSTRB",
+  "name": "Strategy (bStocks Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 49742920,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "RNT",
+  "name": "Rnt",
+  "cat": "other",
+  "mcap": 49732347,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "SHARE",
+  "name": "ShareX",
+  "cat": "other",
+  "mcap": 49214934,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "QQQX",
+  "name": "Nasdaq xStock",
+  "cat": "stock",
+  "mcap": 49092552,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate"
+  ]
+ },
+ {
+  "sym": "FIUSD",
+  "name": "Sygnum FIUSD Liquidity Fund",
+  "cat": "treasury",
+  "mcap": 48295651,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "NVDAX",
+  "name": "NVIDIA xStock",
+  "cat": "stock",
+  "mcap": 48037211,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Bybit",
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "SPYON",
+  "name": "SPDR S&P 500 ETF (Ondo Tokenized ETF)",
+  "cat": "fund",
+  "mcap": 46981736,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "NVDAB",
+  "name": "NVIDIA (bStocks Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 44713522,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "USUAL",
+  "name": "Usual USD0",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 43381334,
+  "risk": "listed",
+  "ex": [
+   "Binance",
+   "Kraken",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "POLYX",
+  "name": "Polymesh",
+  "cat": "other",
+  "mcap": 43210919,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "INTCB",
+  "name": "Intel (bStocks Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 42501847,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "TNGBL",
+  "name": "Tangible RWA",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 41928156,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "SECZ",
+  "name": "Securitize",
+  "cat": "other",
+  "mcap": 41218392,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "LCX",
+  "name": "LCX",
+  "cat": "other",
+  "mcap": 38604282,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Coinbase",
+   "Kraken"
+  ]
+ },
+ {
+  "sym": "CFG",
+  "name": "Centrifuge",
+  "cat": "credit",
+  "mcap": 38593569,
+  "tvl": null,
+  "risk": "verified",
+  "ex": [
+   "Binance",
+   "Coinbase",
+   "OKX",
+   "Bybit",
+   "Kraken",
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "KTA",
+  "name": "Keeta",
+  "cat": "other",
+  "mcap": 37809499,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Coinbase",
+   "Kraken",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "BNCB",
+  "name": "CEA Industries (bStocks Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 37618894,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "PC0000089",
+  "name": "Tradable LatAm Residential SSTL",
+  "cat": "credit",
+  "mcap": 37000012,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "CSPR",
+  "name": "Casper Network",
+  "cat": "other",
+  "mcap": 36435558,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "OKX",
+   "Bybit",
+   "Kraken",
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "EMRL.D",
+  "name": "Emerald Security Token",
+  "cat": "other",
+  "mcap": 34840082,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "MUON",
+  "name": "Micron Technology (Ondo Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 34207442,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "NVDAON",
+  "name": "NVIDIA (Ondo Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 33472059,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "QQQON",
+  "name": "Invesco QQQ ETF (Ondo Tokenized ETF)",
+  "cat": "fund",
+  "mcap": 33294403,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "SOXLB",
+  "name": "Semicon Bull 3X ETF (bStocks Tokenized ETF)",
+  "cat": "stock",
+  "mcap": 32960154,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "ASSET",
+  "name": "REAL",
+  "cat": "other",
+  "mcap": 32782790,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Kraken",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "USTBL",
+  "name": "USTBL",
+  "cat": "other",
+  "mcap": 32214961,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "EURSPKCC",
+  "name": "Spiko Digital Assets Cash & Carry Fund - Euro Share Class",
+  "cat": "fund",
+  "mcap": 30944546,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "PRO",
+  "name": "Propy",
+  "cat": "other",
+  "mcap": 30909877,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Coinbase",
+   "Kraken",
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "HIMSON",
+  "name": "Hims & Hers Health (Ondo Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 30645155,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "SKHYB",
+  "name": "SK Hynix (bStocks Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 29674225,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "CPOOL",
+  "name": "Clearpool",
+  "cat": "other",
+  "mcap": 28531517,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Bybit",
+   "Kraken",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "OTFY",
+  "name": "Obligate Trade Finance Yield",
+  "cat": "other",
+  "mcap": 26367650,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "FDIT",
+  "name": "Fidelity Digital Interest Token",
+  "cat": "other",
+  "mcap": 25709136,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "FILQ-A",
+  "name": "Fidelity USD Digital Liquidity Fund-Acc",
+  "cat": "treasury",
+  "mcap": 25578037,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "BCSPX",
+  "name": "Backed CSPX Core S&P 500",
+  "cat": "other",
+  "mcap": 25127510,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "PREOPAI",
+  "name": "OpenAI (Republic Pre-IPO)",
+  "cat": "stock",
+  "mcap": 24544472,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "CPOOL",
+  "name": "Clearpool TPOOL",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 23689011,
+  "risk": "listed",
+  "ex": [
+   "Bybit",
+   "Kraken",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "TSLAON",
+  "name": "Tesla (Ondo Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 23660557,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "ART",
+  "name": "GoldFinger",
+  "cat": "commodity",
+  "mcap": 0,
+  "tvl": 23530196,
+  "risk": "listed",
+  "ex": [
+   "Gate"
+  ]
+ },
+ {
+  "sym": "TSLAB",
+  "name": "Tesla (bStocks Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 23443888,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "RIZE",
+  "name": "T RIZE",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 23000000,
+  "risk": "listed",
+  "ex": [
+   "Kraken",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "EWT",
+  "name": "Energy Web Token",
+  "cat": "other",
+  "mcap": 22613540,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Kraken",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "MANTRA",
+  "name": "MANTRA",
+  "cat": "other",
+  "mcap": 22513955,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance",
+   "Bybit",
+   "Kraken",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "RVN",
+  "name": "Ravencoin",
+  "cat": "other",
+  "mcap": 22361807,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance",
+   "OKX",
+   "Bybit",
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "MSTRON",
+  "name": "MicroStrategy (Ondo Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 22205121,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "STRX",
+  "name": "StrikeX",
+  "cat": "other",
+  "mcap": 21642466,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "SLVON",
+  "name": "iShares Silver Trust (Ondo Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 21586801,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "GOOGLON",
+  "name": "Alphabet Class A (Ondo Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 21497941,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "SNDKX",
+  "name": "Sandisk Corporation xStock",
+  "cat": "stock",
+  "mcap": 21416476,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "-",
+  "name": "Vesta Equity",
+  "cat": "stock",
+  "mcap": 0,
+  "tvl": 20634337,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "UMINT",
+  "name": "UBS USD Money Market Investment Fund Token",
+  "cat": "treasury",
+  "mcap": 20379562,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "SPY",
+  "name": "SPDR S&P 500 ETF Trust • Robinhood Token",
+  "cat": "stock",
+  "mcap": 20197789,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "EDEN",
+  "name": "OpenEden",
+  "cat": "other",
+  "mcap": 20082695,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "DRAMB",
+  "name": "Roundhill Memory ETF (bStocks Tokenized ETF)",
+  "cat": "stock",
+  "mcap": 19870325,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "TLTON",
+  "name": "iShares 20+ Year Treasury Bond ETF (Ondo Tokenized ETF)",
+  "cat": "treasury",
+  "mcap": 19603661,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate"
+  ]
+ },
+ {
+  "sym": "LUMIA",
+  "name": "Lumia",
+  "cat": "other",
+  "mcap": 19466349,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance",
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "COINB",
+  "name": "Coinbase (bStocks Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 19365407,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "USUAL",
+  "name": "Usual",
+  "cat": "other",
+  "mcap": 19278098,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance",
+   "Kraken",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "SPYB",
+  "name": "SPY (bStocks Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 19246917,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "RYZE",
+  "name": "Ryze",
+  "cat": "other",
+  "mcap": 19052373,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "BIB01",
+  "name": "Backed IB01 $ Treasury Bond 0-1yr",
+  "cat": "treasury",
+  "mcap": 18960097,
+  "tvl": null,
+  "risk": "verified",
+  "ex": []
+ },
+ {
+  "sym": "NVDA",
+  "name": "NVIDIA • Robinhood Token",
+  "cat": "other",
+  "mcap": 18537543,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "HINC",
+  "name": "Neuberger Securitize High Income Tokenized Fund",
+  "cat": "credit",
+  "mcap": 18472882,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "AVGOB",
+  "name": "Broadcom (bStocks Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 18138929,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "PMT",
+  "name": "Public Masterpiece Token",
+  "cat": "other",
+  "mcap": 17847666,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "AID",
+  "name": "GAIB AID",
+  "cat": "other",
+  "mcap": 16943887,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "GAIB",
+  "name": "GAIB",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 16941026,
+  "risk": "listed",
+  "ex": [
+   "Bybit",
+   "Kraken",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "OPAIPON",
+  "name": "OpenAI (Ondo Private Market Note)",
+  "cat": "bond",
+  "mcap": 16908280,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "IEFAON",
+  "name": "iShares Core MSCI EAFE ETF (Ondo Tokenized ETF)",
+  "cat": "fund",
+  "mcap": 16839981,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "MEY",
+  "name": "Mey Network",
+  "cat": "other",
+  "mcap": 16474126,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "TX",
+  "name": "tx",
+  "cat": "other",
+  "mcap": 16333356,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Kraken",
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "RSPCX",
+  "name": "SpaceX Tokenized Stock (Reality)",
+  "cat": "stock",
+  "mcap": 15967699,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "CHR",
+  "name": "Chromia",
+  "cat": "other",
+  "mcap": 15656429,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance",
+   "Kraken",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "DIA",
+  "name": "DIA",
+  "cat": "other",
+  "mcap": 15589857,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance",
+   "Coinbase",
+   "Gate"
+  ]
+ },
+ {
+  "sym": "-",
+  "name": "Sygnum FIUSD Liquidity Fund",
+  "cat": "fund",
+  "mcap": 0,
+  "tvl": 15326215,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "KAIO",
+  "name": "KAIO",
+  "cat": "other",
+  "mcap": 15185449,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Coinbase",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "MUUB",
+  "name": "Direxion MU Bull 2X ETF (bStocks Tokenized ETF)",
+  "cat": "stock",
+  "mcap": 14620402,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "RIO",
+  "name": "Realio Network Token",
+  "cat": "other",
+  "mcap": 14525430,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "USDO",
+  "name": "OpenEden OpenDollar",
+  "cat": "other",
+  "mcap": 14475091,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "BLKGRWON",
+  "name": "Ondo High Growth Powered by BlackRock",
+  "cat": "other",
+  "mcap": 14270505,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate"
+  ]
+ },
+ {
+  "sym": "AGGON",
+  "name": "iShares Core US Aggregate Bond ETF (Ondo Tokenized ETF)",
+  "cat": "bond",
+  "mcap": 14244901,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate"
+  ]
+ },
+ {
+  "sym": "-",
+  "name": "Paimon",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 14078238,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "STBU",
+  "name": "Stobox",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 13952059,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "-",
+  "name": "Estate Protocol",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 13945014,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "MAG7XON",
+  "name": "Ondo Magnificent 7 and Crypto Portfolio",
+  "cat": "other",
+  "mcap": 13645236,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate"
+  ]
+ },
+ {
+  "sym": "RSNDK",
+  "name": "SanDisk Tokenized Stock (Reality)",
+  "cat": "stock",
+  "mcap": 13343671,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "CHEX",
+  "name": "Chintai",
+  "cat": "other",
+  "mcap": 13271011,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Kraken",
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "PRESPCX",
+  "name": "SpaceX (Republic Pre-IPO)",
+  "cat": "stock",
+  "mcap": 13212086,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "RCRCL",
+  "name": "Circle Internet Group Tokenized Stock (Reality)",
+  "cat": "stock",
+  "mcap": 13193960,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "NBISB",
+  "name": "Nebius (bStocks Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 13176940,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "STBL",
+  "name": "STBL",
+  "cat": "other",
+  "mcap": 13089369,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Kraken",
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "SPCX",
+  "name": "SpaceX • Robinhood Token",
+  "cat": "other",
+  "mcap": 13087875,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate"
+  ]
+ },
+ {
+  "sym": "KERNEL",
+  "name": "KernelDAO",
+  "cat": "other",
+  "mcap": 13019307,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance",
+   "Coinbase",
+   "Kraken",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "ITOTON",
+  "name": "iShares Core S&P Total US Stock Market ETF (Ondo Tokenized ETF)",
+  "cat": "stock",
+  "mcap": 12668435,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "COINX",
+  "name": "Coinbase xStock",
+  "cat": "stock",
+  "mcap": 12649096,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Bybit",
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "SOFION",
+  "name": "SoFi Technologies (Ondo Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 12608950,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "CHFSAFO",
+  "name": "Spiko Amundi Overnight Swap Fund (CHF)",
+  "cat": "fund",
+  "mcap": 12507937,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "COLLECT",
+  "name": "Collect on Fanable",
+  "cat": "other",
+  "mcap": 12383852,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "GLDY",
+  "name": "Streamex GLDY",
+  "cat": "commodity",
+  "mcap": 12372142,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "NALPHA",
+  "name": "Nest Alpha Vault",
+  "cat": "other",
+  "mcap": 12364420,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "MRVLON",
+  "name": "Marvell Technology (Ondo Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 12286141,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "METAON",
+  "name": "Meta Platforms (Ondo Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 12285604,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "AAPLX",
+  "name": "Apple xStock",
+  "cat": "stock",
+  "mcap": 12168721,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Bybit",
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "UKTBL",
+  "name": "Spiko UK T-Bills Money Market Fund",
+  "cat": "treasury",
+  "mcap": 12168215,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "CUSDO",
+  "name": "Compounding OpenDollar",
+  "cat": "other",
+  "mcap": 12141849,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "TQQQB",
+  "name": "ProShares UltraPro QQQ (bStocks Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 12071238,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "SPCXON",
+  "name": "SpaceX (Ondo Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 11954365,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "INTCON",
+  "name": "Intel (Ondo Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 11775605,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "SAID",
+  "name": "GAIB sAID",
+  "cat": "other",
+  "mcap": 11714266,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "SPCX",
+  "name": "SpaceX (Backpack Securities)",
+  "cat": "other",
+  "mcap": 11681119,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate"
+  ]
+ },
+ {
+  "sym": "KORUB",
+  "name": "South Korea Bull 3X ETF (bStocks Tokenized ETF)",
+  "cat": "stock",
+  "mcap": 11553329,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "PDDON",
+  "name": "PDD Holdings (Ondo Tokenized)",
+  "cat": "other",
+  "mcap": 11479596,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "GLDX",
+  "name": "Gold xStock",
+  "cat": "stock",
+  "mcap": 11238544,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate"
+  ]
+ },
+ {
+  "sym": "SKHYX",
+  "name": "SK Hynix xStock",
+  "cat": "stock",
+  "mcap": 11234095,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "TIPON",
+  "name": "iShares TIPS Bond ETF (Ondo Tokenized ETF)",
+  "cat": "bond",
+  "mcap": 11176261,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "LINGO",
+  "name": "Lingo",
+  "cat": "other",
+  "mcap": 11172904,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "EFAON",
+  "name": "iShares MSCI EAFE ETF (Ondo Tokenized ETF)",
+  "cat": "fund",
+  "mcap": 11165603,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "DEJTRSY",
+  "name": "JTRSY deRWA",
+  "cat": "treasury",
+  "mcap": 11126085,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "INTCX",
+  "name": "Intel xStock",
+  "cat": "stock",
+  "mcap": 10945209,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "AMDB",
+  "name": "Advanced Micro Devices (bStocks Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 10869937,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "PC0000111",
+  "name": "Tradable LatAm Charge Card SSN",
+  "cat": "credit",
+  "mcap": 10750000,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "EWYB",
+  "name": "iShares MSCI South Korea ETF (bStocks Tokenized ETF)",
+  "cat": "stock",
+  "mcap": 10688383,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "CURR",
+  "name": "CURRENC Group Inc.",
+  "cat": "other",
+  "mcap": 10568289,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "METAX",
+  "name": "Meta xStock",
+  "cat": "stock",
+  "mcap": 10534604,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Bybit",
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "AAPLON",
+  "name": "Apple (Ondo Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 10526968,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "EL",
+  "name": "ELYSIA",
+  "cat": "other",
+  "mcap": 10306365,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "IXS",
+  "name": "IXS",
+  "cat": "other",
+  "mcap": 10055845,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "SOIL",
+  "name": "Soil",
+  "cat": "other",
+  "mcap": 10042730,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "RMSTR",
+  "name": "Strategy Tokenized Stock (Reality)",
+  "cat": "stock",
+  "mcap": 9991510,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "DOVU",
+  "name": "DOVU",
+  "cat": "other",
+  "mcap": 9970155,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Kraken"
+  ]
+ },
+ {
+  "sym": "CRCL",
+  "name": "Circle Internet Group • Robinhood Token",
+  "cat": "other",
+  "mcap": 9963087,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "BMNRB",
+  "name": "BitMine Immersion Technologies (bStocks Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 9894422,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "HOODX",
+  "name": "Robinhood xStock",
+  "cat": "stock",
+  "mcap": 9751679,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Bybit",
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "DGLD",
+  "name": "Digital Gold",
+  "cat": "commodity",
+  "mcap": 9720861,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "BC3M",
+  "name": "Backed GOVIES 0-6 months EURO",
+  "cat": "other",
+  "mcap": 9664808,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "DEJAAA",
+  "name": "DeFi Janus Henderson Anemoy AAA CLO Fund",
+  "cat": "credit",
+  "mcap": 9551437,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "OGY",
+  "name": "ORIGYN",
+  "cat": "other",
+  "mcap": 9493155,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "MSFTON",
+  "name": "Microsoft (Ondo Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 9442633,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "AMATB",
+  "name": "Applied Materials (bStocks Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 9380750,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "RKLBB",
+  "name": "Rocket Lab (bStocks Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 9360232,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "IEMGON",
+  "name": "iShares Core MSCI Emerging Markets ETF (Ondo Tokenized ETF)",
+  "cat": "fund",
+  "mcap": 9312242,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "IWFON",
+  "name": "iShares Russell 1000 Growth ETF (Ondo Tokenized ETF)",
+  "cat": "fund",
+  "mcap": 9236452,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "XU3O8",
+  "name": "Uranium",
+  "cat": "commodity",
+  "mcap": 9208452,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Kraken",
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "TSMB",
+  "name": "TSMC (bStocks Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 9193446,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "SGOVON",
+  "name": "iShares 0-3 Month Treasury Bond ETF (Ondo Tokenized ETF)",
+  "cat": "treasury",
+  "mcap": 9179135,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "SOLV",
+  "name": "Solv RWA",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 9061184,
+  "risk": "listed",
+  "ex": [
+   "Binance",
+   "Bybit",
+   "Kraken",
+   "Gate",
+   "MEXC",
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "-",
+  "name": "Binaryx Platform",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 8989754,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "BABAB",
+  "name": "Alibaba (bStocks Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 8919064,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "AMZNX",
+  "name": "Amazon xStock",
+  "cat": "stock",
+  "mcap": 8842912,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Bybit",
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "BKN",
+  "name": "Brickken",
+  "cat": "commodity",
+  "mcap": 8753983,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "RIZE",
+  "name": "RIZE",
+  "cat": "other",
+  "mcap": 8713092,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Kraken",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "COHRB",
+  "name": "Coherent (bStocks Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 8705277,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "INC",
+  "name": "WorldAssets",
+  "cat": "other",
+  "mcap": 8548504,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate"
+  ]
+ },
+ {
+  "sym": "AMDON",
+  "name": "AMD (Ondo Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 8543908,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "SNXXB",
+  "name": "Tradr 2X Long SNDK ETF (bStocks Tokenized ETF)",
+  "cat": "stock",
+  "mcap": 8503297,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "NOTE",
+  "name": "Republic Note",
+  "cat": "bond",
+  "mcap": 0,
+  "tvl": 8353389,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "ANZ",
+  "name": "Anzen V2",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 7943018,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "MRVLB",
+  "name": "Marvell Technology (bStocks Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 7941432,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "GOOGLC",
+  "name": "Alphabet (Coinbase Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 7809830,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "GLD",
+  "name": "SPDR Gold Shares • Robinhood Token",
+  "cat": "commodity",
+  "mcap": 7713349,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "RGOOGL",
+  "name": "Alphabet Class A Tokenized Stock (Reality)",
+  "cat": "stock",
+  "mcap": 7711842,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "MSFTX",
+  "name": "Microsoft xStock",
+  "cat": "stock",
+  "mcap": 7709511,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "XU3O8",
+  "name": "Uranium.io",
+  "cat": "commodity",
+  "mcap": 0,
+  "tvl": 7676772,
+  "risk": "listed",
+  "ex": [
+   "Kraken",
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "ANTHROPIC",
+  "name": "Anthropic PreStocks",
+  "cat": "stock",
+  "mcap": 7626169,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "RMSTU",
+  "name": "T-Rex 2X Long MSTR Daily Target ETF Tokenized Stock (Reality)",
+  "cat": "stock",
+  "mcap": 7599533,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "COINON",
+  "name": "Coinbase (Ondo Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 7525294,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "-",
+  "name": "Vault Street",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 7419021,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "AAOIB",
+  "name": "Applied Optoelectronics (bStocks Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 7378186,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "IXS",
+  "name": "IXS",
+  "cat": "other",
+  "mcap": 7375513,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "AX",
+  "name": "Aurus",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 7335723,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "BCOIN",
+  "name": "Backed Coinbase Global",
+  "cat": "other",
+  "mcap": 7319052,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "GOOGL",
+  "name": "Alphabet Class A • Robinhood Token",
+  "cat": "other",
+  "mcap": 7313502,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "AVGOX",
+  "name": "Broadcom xStock",
+  "cat": "stock",
+  "mcap": 7290783,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate"
+  ]
+ },
+ {
+  "sym": "-",
+  "name": "Defa By InvoiceMate",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 7188384,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "META",
+  "name": "Meta Platforms • Robinhood Token",
+  "cat": "other",
+  "mcap": 7180345,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Coinbase"
+  ]
+ },
+ {
+  "sym": "AMZNON",
+  "name": "Amazon (Ondo Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 7165216,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "EEMON",
+  "name": "iShares MSCI Emerging Markets ETF (Ondo Tokenized ETF)",
+  "cat": "fund",
+  "mcap": 7046800,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "DAKS",
+  "name": "Draggable Aktionariat AG",
+  "cat": "other",
+  "mcap": 7008345,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "TOKEN",
+  "name": "TokenFi",
+  "cat": "other",
+  "mcap": 7005557,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Kraken",
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "BLKDIGON",
+  "name": "Ondo Diversified Growth Powered by BlackRock",
+  "cat": "other",
+  "mcap": 6922579,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate"
+  ]
+ },
+ {
+  "sym": "-",
+  "name": "NaraUSD",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 6828145,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "EURS",
+  "name": "STASIS EURO",
+  "cat": "other",
+  "mcap": 6710065,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "MSTR",
+  "name": "Strategy Inc. • Robinhood Token",
+  "cat": "stock",
+  "mcap": 6621116,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "NVDAC",
+  "name": "NVIDIA (Coinbase Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 6613073,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "BMNRON",
+  "name": "BitMine Immersion Technologies (Ondo Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 6564354,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "GMEB",
+  "name": "GameStop (bStocks Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 6519778,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Binance"
+  ]
+ },
+ {
+  "sym": "BRAINON",
+  "name": "Ondo AI Leaders Portfolio",
+  "cat": "other",
+  "mcap": 6516419,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate"
+  ]
+ },
+ {
+  "sym": "-",
+  "name": "Digital Gold",
+  "cat": "commodity",
+  "mcap": 0,
+  "tvl": 6449013,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "IMO",
+  "name": "IMO",
+  "cat": "other",
+  "mcap": 6404613,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "RMU",
+  "name": "Micron Technology Tokenized Stock (Reality)",
+  "cat": "stock",
+  "mcap": 6398670,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Bitget"
+  ]
+ },
+ {
+  "sym": "SPKCC",
+  "name": "Spiko Digital Assets Cash & Carry Fund",
+  "cat": "fund",
+  "mcap": 6311110,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "TSMON",
+  "name": "Taiwan Semiconductor Manufacturing (Ondo Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 6173568,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "BNC4",
+  "name": "Cea Industries",
+  "cat": "other",
+  "mcap": 6139570,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "LLYON",
+  "name": "Eli Lilly (Ondo Tokenized Stock)",
+  "cat": "stock",
+  "mcap": 6084865,
+  "tvl": null,
+  "risk": "listed",
+  "ex": [
+   "Gate",
+   "MEXC"
+  ]
+ },
+ {
+  "sym": "-",
+  "name": "Theo Network thBill",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 6079506,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "NVPRIME",
+  "name": "NUVA nvPRIME",
+  "cat": "other",
+  "mcap": 6073249,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "WSPYX",
+  "name": "Wrapped SP500 xStock",
+  "cat": "stock",
+  "mcap": 6044479,
+  "tvl": null,
+  "risk": "unverified",
+  "ex": []
+ },
+ {
+  "sym": "MNSRY",
+  "name": "Mansory",
+  "cat": "other",
+  "mcap": 0,
+  "tvl": 6029118,
+  "risk": "listed",
+  "ex": [
+   "MEXC"
+  ]
+ }
+]
