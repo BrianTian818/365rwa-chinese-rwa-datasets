@@ -13,7 +13,7 @@ Site: https://365rwa.vip · License: CC BY 4.0 · Updated: 2026-10-30
 | `regulatory.json` | 119 | 监管动态 | 官方源（HKMA / SFC / SEC / ESMA / ECB 等） |
 | `market-top300.json` | 300 | 规模前 300 的代币化项目 | 交易所挂牌状态 / 规模 |
 
-行情库全量 1953 条见线上行情库 https://365rwa.vip/market/ 。
+行情库全量 1951 条见线上行情库 https://365rwa.vip/market/ （数字每日变动，以 https://365rwa.vip/llms.txt 为准）。
 
 ## 为什么用它
 
